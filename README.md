@@ -14,7 +14,7 @@ Azure Spatial Anchors (ASA) to create a path from the origin to the destination 
 also 3D reconstruction of the landmark into 3D mesh model using Microsoft MRTK 2
 SpatialMapping API. During navigation, a pathway of spatial anchors and a 3D mesh
 model of the landmark will be rendered in order to guide the user durign navigation.
-
+  
 
 For more details about the project: [Project Thesis](francois_honours_thesis.pdf)
 ### Main functionalities
