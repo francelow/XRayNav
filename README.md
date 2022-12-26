@@ -44,7 +44,7 @@ choose the origin and destination
 Spatial anchors and a 3D mesh model of the destination are generated when the user choose the origin and destination.
 
 ![](https://github.com/francelow/XRayNav/blob/main/hallway_to_visuallab.gif)  
-![](https://github.com/francelow/XRayNav/blob/main/visual_lab_to_level3_2.gif)
+![](https://github.com/francelow/XRayNav/blob/main/visual_lab_to_level3.gif)
 
 ## Authors
 Francois Low
