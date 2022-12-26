@@ -41,10 +41,12 @@ choose the origin and destination
 - IMixedRealitySpatialAwarenessMeshObserver API
 
 ## Demo
-Spatial anchors and a 3D mesh model of the destination are generated when the user choose the origin and destination.
-
-![](https://github.com/francelow/XRayNav/blob/main/hallway_to_visuallab.gif)  
-![](https://github.com/francelow/XRayNav/blob/main/visual_lab_to_level3.gif)  
+Spatial anchors and a 3D mesh model of the destination are generated when the user choose the origin and destination.  
+### Origin: Level 2 hallway, Destination: EN-2013 Visual and Analytic Computing Lab  
+![](https://github.com/francelow/XRayNav/blob/main/hallway_to_visuallab.gif) 
+### Origin: EN-2013 Visual and Analytic Computing Lab, Destination: Level 3  
+![](https://github.com/francelow/XRayNav/blob/main/visual_lab_to_level3.gif) 
+Origin: Level 3, Destination: EN-2013 Visual and Analytic Computing Lab  
 ![](https://github.com/francelow/XRayNav/blob/main/level3_to_visuallab.gif)
 
 ## Authors
