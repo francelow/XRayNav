@@ -16,7 +16,7 @@ SpatialMapping API. During navigation, a pathway of spatial anchors and a 3D mes
 model of the landmark will be rendered in order to guide the user durign navigation.
 
 
-For more details about the project, checkout our [report](francois_honours_thesis.pdf)
+For more details about the project: [report](francois_honours_thesis.pdf)
 ### Main functionalities
 - Mapping
   - 3D reconstruction of landmarks of interest into 3D mesh model
